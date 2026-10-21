@@ -6,7 +6,7 @@
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
-- *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
+- _Kopiraj_ označeno v odložišče: Ctrl+C (**C**opy)
 - *Izreži* označeno v odložišče: Ctrl+X
 - *Prilepi* vsebino odložišča: Ctrl+V
 - *Fokus na naslovno vrstico* Ctrl+L
